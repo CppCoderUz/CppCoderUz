@@ -1,3 +1,8 @@
+
+<head>
+  <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+  <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+</head>
 <body>
 <h1>CppCoderUz</h1>
   <ul>
@@ -14,7 +19,7 @@
       </a>
     </li>
     <li>
-      <a href"#">
+      <a href="#">
         <span><ion-icon name="call-outline"></ion-icon></span>
         <span>Aloqa</span>
       </a>
@@ -22,6 +27,5 @@
     
     
   </ul>
-  <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
-  <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+  
 </body>
