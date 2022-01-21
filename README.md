@@ -1,9 +1,11 @@
 
-<head>
-  <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
-  <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
-</head>
 <body>
+  <style>
+  ul {
+    list-style-type: none;
+    }
+  </style>
+  
 <h1>CppCoderUz</h1>
   <ul>
     <li>
