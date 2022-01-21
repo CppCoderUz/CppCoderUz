@@ -15,7 +15,7 @@
         <span>Telegram</span>
       </a>
     </li>
-    <li>
+    <li style="list-style-type: none;">
       <a href="#">
         <span><ion-icon name="call-outline"></ion-icon></span>
         <span>Aloqa</span>
