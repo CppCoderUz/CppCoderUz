@@ -1,13 +1,8 @@
 
 <body>
-  <style>
-  ul {
-    list-style-type: none;
-    }
-  </style>
   
 <h1>CppCoderUz</h1>
-  <ul>
+  <ul style="list-style-type: none;">
     <li>
       <a href="#">
         <span>&copy</span>
