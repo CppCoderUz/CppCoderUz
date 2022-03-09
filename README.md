@@ -1,5 +1,5 @@
 
-<body>
+<body background-color: red;>
   
 <h1>CppCoderUz</h1>
   <ul style="list-style-type: none;">
