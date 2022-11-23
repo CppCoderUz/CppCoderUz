@@ -1,4 +1,7 @@
 # Backend dev ...
+<br>
+# C++ 70 %
+# Python 75 %
 
-// C++ ..
+
 <a href="http://t.me/cpp_coder_uz">Telegram</a>
