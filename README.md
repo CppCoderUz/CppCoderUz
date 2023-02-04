@@ -33,5 +33,5 @@
 - 🔭 I’m currently working on DC
 - 🌱 I’m currently learning SamSU
 - 💬 Ask me about programming
-- 📫 How to reach me: <a href=“tel:555-666-7777”>555-666-7777</a>
+- 📫 How to reach me: +998(93)7272421
 
