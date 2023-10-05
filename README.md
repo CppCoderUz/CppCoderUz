@@ -28,10 +28,3 @@
 
 
 
-
-
-- 🔭 I’m currently working on SE
-- 🌱 I’m currently learning SamSU
-- 💬 Ask me about programming
-- 📫 How to reach me: +998(93)7272421
-
