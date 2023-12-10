@@ -20,6 +20,9 @@
  - [x] Rest Framework
  - [x] Drogon
  - [x] SFML
+ - [x] PHP
+ - [x] Laravel
+ - [x] MySQL 
 
 🚀 **Interests**
  - [x] Algorithm
